@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Alnajim.osama.StarLanguage">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@drawable/splashlogo"
+        android:label="Star Language"
+        android:roundIcon="@drawable/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.Alnajim.osama.StarLanguage.WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+      </activity>
+        <activity android:name="com.Alnajim.osama.StarLanguage.SplashActivity">
+
+
+        </activity>
+        <activity android:name="com.Alnajim.osama.StarLanguage.WordGame.WordsTest" />
+        <activity android:name="com.Alnajim.osama.StarLanguage.WordGame.ShowWords" />
+        <activity
+            android:name="com.Alnajim.osama.StarLanguage.QuestionGame.WhichLanguage"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.Alnajim.osama.StarLanguage.QuestionGame.getQuestions"
+            android:label="@string/title_activity_get_questions"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.Alnajim.osama.StarLanguage.QuestionGame.TheResult"
+            android:label="@string/title_activity_the_result"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.Alnajim.osama.StarLanguage.QuestionGame.ShowQuestions"
+            android:label="@string/title_activity_showQuestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.Alnajim.osama.StarLanguage.QuestionGame.examLengeth"
+            android:label="@string/title_activity_examp_lengeth"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.Alnajim.osama.StarLanguage.QuestionGame.addQuestionLanguage"
+            android:label="@string/title_activity_add_question_language"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

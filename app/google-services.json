@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "958042380936",
+    "firebase_url": "https://turishexam.firebaseio.com",
+    "project_id": "turishexam",
+    "storage_bucket": "turishexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958042380936:android:ddc2e430f77a1279",
+        "android_client_info": {
+          "package_name": "com.Alnajim.osama.StarLanguage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958042380936-cgnad7h7kv5ou07739sn0vrrfr45m5ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Fyk2zaU6Bw9xonBY80z5Jsqe79iSMq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958042380936-cgnad7h7kv5ou07739sn0vrrfr45m5ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958042380936:android:f1468cc233755b09",
+        "android_client_info": {
+          "package_name": "com.example.osama.turkishlanguage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958042380936-b47m138jopo1e9i82cm2v5pk1attrrq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osama.turkishlanguage",
+            "certificate_hash": "d77ac2c6167578672539c519aa369cc674a32451"
+          }
+        },
+        {
+          "client_id": "958042380936-cgnad7h7kv5ou07739sn0vrrfr45m5ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Fyk2zaU6Bw9xonBY80z5Jsqe79iSMq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958042380936-cgnad7h7kv5ou07739sn0vrrfr45m5ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958042380936:android:a6c10651f0257874",
+        "android_client_info": {
+          "package_name": "com.osama.LanguageApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958042380936-cgnad7h7kv5ou07739sn0vrrfr45m5ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Fyk2zaU6Bw9xonBY80z5Jsqe79iSMq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958042380936-cgnad7h7kv5ou07739sn0vrrfr45m5ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
